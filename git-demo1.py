@@ -6,3 +6,5 @@
 
 if __name__ == '__main__':
     print("hello git1")
+    print("hello git2")
+

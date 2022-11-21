@@ -8,6 +8,6 @@ if __name__ == '__main__':
     print("hello git1")
     print("hello git2")
     print("hello git3")
-    print("hello hotfix")
+    print("hello master")
 
 

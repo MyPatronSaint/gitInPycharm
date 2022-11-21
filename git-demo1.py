@@ -3,4 +3,6 @@
 # @Author : Arthur
 # @File : git-demo1 
 # @Project : gitInPycharm
-print("hello world")
+
+if __name__ == '__main__':
+    print("hello git1")

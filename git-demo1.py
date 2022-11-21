@@ -12,5 +12,6 @@ if __name__ == '__main__':
     print("hello hotfix conflict")
 
     print("push test!!")
+    print("pull test!!")
 
 
